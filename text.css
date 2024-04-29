@@ -1,0 +1,49 @@
+
+h2, h3, h1 {
+    color: black;
+    font-weight: bold;
+    margin: 0;
+    padding-top: 0.5em;
+    padding-bottom: 0.17em;
+    overflow: hidden;
+}
+p {
+    text-align: justify;
+    text-indent: 24px;
+    line-height: 32px;
+    word-spacing: 5px;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    color: blue;
+}
+ul {
+    list-style: none;
+    margin-top: 10px;
+    margin-left: -10px;
+}
+figure {
+    display: inline-block;
+}
+figcaption {
+    position: absolute;
+}
+.ul1 {
+    list-style: circle;
+    list-style-type: disc;
+}
+.ul2 {
+    list-style: circle;
+    list-style-type: disc;
+}
+.ul3 {
+    display: inline-block;
+}
+li {
+    margin-top: 10px;
+}
